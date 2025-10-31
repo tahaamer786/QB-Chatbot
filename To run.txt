@@ -1,0 +1,2 @@
+To run it in terminal by terminal chatbot file
+put groq api key and mongo-uri in .env file
